@@ -1,0 +1,8 @@
+Radiolog,Nomenclature,Manufacturer,Agent,inventory number,Serial number,Installation Date,Operation,Location,warrantly period,Contact data of manufacturer,department,cause of fault,fault description,Technician name,start date of job order,Action taken,predictive maintenance Scheduling,Price"X-Ray Film processortabletop ",AGFA Healthcare,AGFA Healthcare,XRF 03 06 Radiology,1.24E+11,02-08-17,PPM,3/Radiology/ground,5_years,Fax. +32 3 444 7094,Radiology,,,marina,02-04-17,,"",30000 LE
+7,Mammograph,Johnson & Johnson,Fresenius,Mam 01 03 radiology,4.55E+11,07-04-19,calibration,2/Radiology/ground,3_year,Fax. +12 3 524 5054,Radiology,,,fatma,05-07-17,,each month,1000000 LE
+8,EEG,iMotions,shenzhen zvepower technology co. ltd,EEG 02 07 out patient clinic neurology,4.51E+11,09-05-11,PPM,2/Radiology/ground,1_year,"Boston, USA HQ +1 617-520-4958 | Chicago, USA +1 857-702-0776 | na@imotions.com",Radiology,"
+9,Misuse",electronic circuit burnt,mohamed,06-07-18,condemnated,each month,60000 LE
+10,Ultrasound (3 probes),GE Healthcare,IBG group,Ultrasound 001 09 gynacology,4.16E+11,03-07-14,calibration,2/Radiology/ground,5_year,Fax. +17 3 604 8961,Radiology,,,yassin,09-09-19,,each 2 months,40000 LE
+11,MRI,Siemens Healthcare,Siemens Healthcare,MRI  15 01 Radiology,3.00E+11,08-09-19,Repair,1/Radiology/ground,2_years,"Fax: +20 2 23240199
+12,Callcenter: 16560",Radiology,Helium content decreases,distorted images,Rahma,,helium Refilled,each 2 months,1500000L.E
+13,Linear Accelerator,Elekta,,LAC 10 01 Oncology,2.77E+11,10-10-10,calibration,2/Radiology/ground,2_years,Phone:+46 8587 254 00,Radiology,,,Safwat,28-08-20,,each 3 months,500000L.E
